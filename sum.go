@@ -1,4 +1,4 @@
-package sum
+package gosum
 
 import "fmt"
 
